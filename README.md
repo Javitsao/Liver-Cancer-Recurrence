@@ -1,4 +1,4 @@
-# liver-cancer-recurrence
+# Liver-Cancer-Recurrence
 ## Analyzing Liver Cancer Recurrence after Surgery Using Machine Learning Models
 
 This study investigates the use of machine learning models to analyze liver cancer (HCC) recurrence after surgery in patients at NTUH between January 2001 and December 2012 (N = 2314). We explore two main outcomes:
